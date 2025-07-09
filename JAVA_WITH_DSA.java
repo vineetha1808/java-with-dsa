@@ -22,5 +22,9 @@ public class JAVA_WITH_DSA {
     public char two(char a){
         return a;
     }
+    public void MatrixMultiplication(int[][] a,int[][] b){
+        
+    }
+    
     
 }
